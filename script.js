@@ -1,6 +1,6 @@
 /* Add a todo/ */
 
-// creating a empty array
+// creating a empt
 let demoarray = [];
 
 // function for rendering the todo items
